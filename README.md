@@ -19,7 +19,7 @@ Je suis **Développeuse FullStack** et **Designer graphique** passionnée par la
 
 ## 📊 Langages les plus utilisés
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarahtoledo2&layout=compact&hide=css)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarahtld&layout=compact&hide=css)
 
 
 ## 🌐 Me retrouver
