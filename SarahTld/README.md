@@ -21,7 +21,6 @@ Je suis **Développeuse FullStack** et **Designer graphique** passionnée par la
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarahtld&layout=compact&hide=css) -->
 
-
 ## 🌐 Me retrouver
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarah-toledo-6190a722b/)
