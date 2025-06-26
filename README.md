@@ -17,9 +17,9 @@ Je suis **Développeuse FullStack** et **Designer graphique** passionnée par la
 | **Divers**   | [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/) [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/fr-fr/windows) [![MacOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/macos/)                                                                                                                                                                                                                                                                                          |
 | **Éditeurs** | [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/) [![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)](https://www.cursor.so/)                                                                                                                                                                                                                                                                                                                                                                                                                        |
 
-## 📊 Langages les plus utilisés
+<!-- ## 📊 Langages les plus utilisés
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarahtld&layout=compact&hide=css)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarahtld&layout=compact&hide=css) -->
 
 
 ## 🌐 Me retrouver
